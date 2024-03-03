@@ -1,6 +1,6 @@
-# telephone-package
+# Telephone-package
 
-## this is a console application that does the following:
+## This is a console application that does the following:
 
 1. AddPhoneNumber - For adding a new phone number
 2. RemovePhoneNumber - For removing a phone number
